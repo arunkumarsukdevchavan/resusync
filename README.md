@@ -30,25 +30,21 @@ ResuSync is a comprehensive AI-powered resume optimization platform designed to 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![System Architecture](https://github.com/arunkumarsukdevchavan/resusync/assets/placeholder/system-architecture.png)
+<img width="1536" height="1024" alt="workflow" src="https://github.com/user-attachments/assets/5d61b761-88bb-4a43-acb4-cdbc23fe9e14" />
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below-->
 #### Output1 - Resume Analysis Dashboard
 
-![Resume Analysis Dashboard](https://github.com/arunkumarsukdevchavan/resusync/assets/placeholder/analysis-dashboard.png)
+<img width="1920" height="973" alt="2" src="https://github.com/user-attachments/assets/63fdcd69-f6b2-42fb-b1cc-205f9e0afb69" />
 
-#### Output2 - AI-Generated Resume Optimization
-![AI Resume Optimization](https://github.com/arunkumarsukdevchavan/resusync/assets/placeholder/optimized-resume.png)
 
-#### Output3 - PDF Generation and Download
-![PDF Generation Interface](https://github.com/arunkumarsukdevchavan/resusync/assets/placeholder/pdf-generation.png)
+#### Output2 - AI-Generated Optimization
+<img width="1920" height="972" alt="4" src="https://github.com/user-attachments/assets/b81d9c85-d436-439e-912e-c41fd322c6a3" />
+<img width="1920" height="963" alt="5" src="https://github.com/user-attachments/assets/2ed87d7f-bdc9-42f3-ac47-36d75bec0e99" />
 
-ATS Compatibility Score: 94.2%
-Resume Enhancement Accuracy: 89.5%
-PDF Generation Success Rate: 98.8%
-Note: These metrics can be customized based on your actual performance evaluations.
+
 
 ## Results and Impact
 The ResuSync AI-Powered Resume Optimization Platform significantly enhances job seekers' employment prospects by providing intelligent, data-driven resume improvements. The project's integration of natural language processing and machine learning showcases its potential for transforming traditional recruitment processes and improving candidate-job matching accuracy.
